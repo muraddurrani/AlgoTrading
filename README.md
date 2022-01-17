@@ -4,9 +4,9 @@ A fully automated, algorithmic trading system that operates in the cryptocurrenc
 ## Description
 The algorithmic trading system I have developed trades across 17 different cryptocurrencies in the Binance Futures market. The script is hosted on Amazon Web Services (AWS), and runs 24/7.
 The program is:
-Fully automatic, meaning it executes trades without any human intervention.
-Informed by technical analysis, meaning it uses intraday patterns in pricing and volume to execute trades as opposed to fundamental analysis, which attempts to measure the intrinsic value of a currency.
-A short term trading strategy. The majority of positions are held for less than an hour.
+- Fully automatic, meaning it executes trades without any human intervention.
+- Informed by technical analysis, meaning it uses intraday patterns in pricing and volume to execute trades as opposed to fundamental analysis, which attempts to measure the intrinsic value of a currency.
+- A short term trading strategy. The majority of positions are held for less than an hour.
 
 Due to the sensitive and proprietary nature of the trading system, I cannot include certain files in the repository. I have included the file responsible for initializing and updating data to provide an overview of how the system works.
 
